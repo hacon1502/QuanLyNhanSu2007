@@ -1,0 +1,13 @@
+C:\Users\hoangdinhhuy\Desktop\1.1 QuanLyNhanSu\1.1 QuanLyNhanSu\bin\Debug\1.1 QuanLyNhanSu.exe.config
+C:\Users\hoangdinhhuy\Desktop\1.1 QuanLyNhanSu\1.1 QuanLyNhanSu\bin\Debug\1.1 QuanLyNhanSu.exe
+C:\Users\hoangdinhhuy\Desktop\1.1 QuanLyNhanSu\1.1 QuanLyNhanSu\bin\Debug\1.1 QuanLyNhanSu.pdb
+C:\Users\hoangdinhhuy\Desktop\1.1 QuanLyNhanSu\1.1 QuanLyNhanSu\obj\Debug\_1._1_QuanLyNhanSu.DangNhap.resources
+C:\Users\hoangdinhhuy\Desktop\1.1 QuanLyNhanSu\1.1 QuanLyNhanSu\obj\Debug\_1._1_QuanLyNhanSu.Properties.Resources.resources
+C:\Users\hoangdinhhuy\Desktop\1.1 QuanLyNhanSu\1.1 QuanLyNhanSu\obj\Debug\1.1 QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\hoangdinhhuy\Desktop\1.1 QuanLyNhanSu\1.1 QuanLyNhanSu\obj\Debug\1.1 QuanLyNhanSu.exe
+C:\Users\hoangdinhhuy\Desktop\1.1 QuanLyNhanSu\1.1 QuanLyNhanSu\obj\Debug\1.1 QuanLyNhanSu.pdb
+C:\Users\hoangdinhhuy\Desktop\1.1 QuanLyNhanSu\1.1 QuanLyNhanSu\obj\Debug\1.1 QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\hoangdinhhuy\Desktop\1.1 QuanLyNhanSu\1.1 QuanLyNhanSu\obj\Debug\_1._1_QuanLyNhanSu.frmMain.resources
+C:\Users\Administrator\Desktop\1.1-QuanLyNhanSu\1.1 QuanLyNhanSu\1.1 QuanLyNhanSu\bin\Debug\1.1 QuanLyNhanSu.exe.config
+C:\Users\Administrator\Desktop\1.1-QuanLyNhanSu\1.1 QuanLyNhanSu\1.1 QuanLyNhanSu\obj\Debug\1.1 QuanLyNhanSu.exe
+C:\Users\Administrator\Desktop\1.1-QuanLyNhanSu\1.1 QuanLyNhanSu\1.1 QuanLyNhanSu\obj\Debug\1.1 QuanLyNhanSu.pdb
